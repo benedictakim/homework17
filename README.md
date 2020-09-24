@@ -1,8 +1,8 @@
 # Workout Tracker
  This application can create and track daily workouts and log excercises to provide a dashboard of stats.  
 
-![Application Screenshot](./assets/workout-tracker-dashboard.png)
-![Application Screenshot](./assets/add-excercise.png)
+![Application Screenshot](/assets/workout-tracker-dashboard.png)
+![Application Screenshot](/assets/add-excercise.png)
 
 ## User Story
 ```
